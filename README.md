@@ -4,7 +4,7 @@
 
 
 
-###🔆 Programming Languanges
+🔆 Programming Languanges
 <br>
 ![C](https://img.shields.io/badge/-C-000000?style=plastic&logo=c)
 ![C#](https://img.shields.io/badge/-C%23-000000?style=plastic&logo=c%20sharp)
@@ -21,12 +21,12 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=plastic&logo=typescript&logoColor=blue)
 ![Go](https://img.shields.io/badge/-Go-000000?style=plastic&logo=go)
 
-###❄️ Frameworks
+❄️ Frameworks
 <br>
 ![Angular](https://img.shields.io/badge/-Angular-FFFFFF?style=plastic&logo=angular&logoColor=DD0031)
 ![Linux](https://img.shields.io/badge/-Flask-FFFFFF?style=plastic&logo=Flask&logoColor=000000)
 
-###🔨 Technologies
+🔨 Technologies
 <br>
 ![Linux](https://img.shields.io/badge/-Linux-3d3d3d?style=plastic&logo=linux)
 ![Unity](https://img.shields.io/badge/-Unity-3d3d3d?style=plastic&logo=unity)
@@ -35,11 +35,13 @@
 ![VSCode](https://img.shields.io/badge/-Visual%20Studio%20Code-3d3d3d?style=plastic&logo=visual-studio-code&logoColor=blue)
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-3d3d3d?style=plastic&logo=visual-studio)
 ![Postman](https://img.shields.io/badge/-Postman-3d3d3d?style=plastic&logo=postman)
+
+👥 How to reach me:
+LinkedIn: https://www.linkedin.com/in/karen-prisilia-iing/
 <!--
 **Perciva/Perciva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-##👥 How to reach me:
-LinkedIn: https://www.linkedin.com/in/karen-prisilia-iing/
+
 
 Here are some ideas to get you started:
 
