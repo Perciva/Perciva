@@ -26,7 +26,7 @@
 ![Angular](https://img.shields.io/badge/-Angular-FFFFFF?style=plastic&logo=angular&logoColor=DD0031)
 ![Linux](https://img.shields.io/badge/-Flask-FFFFFF?style=plastic&logo=Flask&logoColor=000000)
 
-🔨 Technologies
+🔨 Technologies i am familiar with
 <br>
 ![Linux](https://img.shields.io/badge/-Linux-3d3d3d?style=plastic&logo=linux)
 ![Unity](https://img.shields.io/badge/-Unity-3d3d3d?style=plastic&logo=unity)
@@ -37,6 +37,7 @@
 ![Postman](https://img.shields.io/badge/-Postman-3d3d3d?style=plastic&logo=postman)
 
 👥 How to reach me:
+<br>
 LinkedIn: https://www.linkedin.com/in/karen-prisilia-iing/
 <!--
 **Perciva/Perciva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
